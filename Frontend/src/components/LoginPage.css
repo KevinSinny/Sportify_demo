@@ -6,16 +6,17 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background-color: #f4f4f4;
+    background-color: white;
 }
 
 .login-box {
-    background: white;
+    background: rgb(21, 82, 74);
     padding: 25px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 320px;
+    justify-content: center;
 }
 
 .login-title {
